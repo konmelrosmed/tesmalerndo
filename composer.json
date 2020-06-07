@@ -1,0 +1,23 @@
+{
+    "name": "tesmalerso/ghs",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tesmalerso",
+            "email": "kontakt@pdamobileweb.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2.5"
+    },
+    "require-dev": {
+        "laravel/framework": "^7.0|^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "BSF\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
